@@ -1,6 +1,9 @@
-# Hello there 👋
-I'm Tecnio I work on Block Game stuff and I like learning new stuff about programming I suck at math but I don't too 🤔.
+<h1 align="center">Tecnio</h1>
 
-I know Java, C#, Kotlin, bit of js and a bit of CPP. I just vibe im self taught and I ski- I dont skid. 
+<p align="center">Backend Developer, Advanced Skid</p>
 
-![Tecnio's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tecnio&show_icons=true&theme=radical)
+<a href="https://github.com/Tecnio">
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=Tecnio" alt="Profile Views">
+  </p>
+</a>
