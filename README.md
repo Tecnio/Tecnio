@@ -1,4 +1,4 @@
-![Monthly-Website-Header-background](https://user-images.githubusercontent.com/50290580/124369353-bf136080-dc73-11eb-907b-d983caaa3070.jpg)
+![welcome-bg-2](https://user-images.githubusercontent.com/50290580/124369381-11ed1800-dc74-11eb-90a9-2ff2073c3b97.jpg)
 
 <h1 align="center">Tecnio</h1>
 
@@ -9,3 +9,5 @@
     <img src="https://komarev.com/ghpvc/?username=Tecnio" alt="Profile Views">
   </p>
 </a>
+
+![footer-bg](https://user-images.githubusercontent.com/50290580/124369382-144f7200-dc74-11eb-807a-f10a7a502dd9.jpg)
