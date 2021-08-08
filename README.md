@@ -5,6 +5,11 @@
 <p align="center">Backend Developer, Advanced Skid</p>
 
 <a href="https://github.com/Tecnio">
+  <p align="center">Join my Discord server!</p>
+</a>
+
+
+<a href="https://github.com/Tecnio">
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=Tecnio" alt="Profile Views">
   </p>
