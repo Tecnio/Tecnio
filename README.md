@@ -4,7 +4,7 @@
 
 <p align="center">Backend Developer, Advanced Skid</p>
 
-<a href="https://github.com/Tecnio">
+<a href="https://discord.gg/HTU9FbkVZd">
   <p align="center">Join my Discord server!</p>
 </a>
 
