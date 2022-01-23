@@ -3,8 +3,7 @@
 <h1 align="center">Tecnio</h1>
 
 <p align="center">Backend Developer, Advanced Skid</p>
-<p align="center">Can fluently write in Java, C#, Kotlin</p>
-<p align="center">Still getting the hang of C++, Rust, Go</p>
+<p align="center">Can fluently write in Java, C#, Kotlin. Still getting the hang of C++, Rust, Go</p>
 
 <a href="https://discord.gg/HTU9FbkVZd">
   <p align="center">Join my Discord server!</p>
