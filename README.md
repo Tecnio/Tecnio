@@ -3,7 +3,7 @@
 <h1 align="center">Tecnio</h1>
 
 <p align="center">Backend Developer, Advanced Skid</p>
-<p align="center">Can fluently write in Java, C#, Kotlin. Still getting the hang of C++, Rust, Go</p>
+<p align="center">Can fluently write in Java, C#, Kotlin and Rust (mostly)</p>
 
 <a href="https://github.com/Tecnio">
   <p align="center">
