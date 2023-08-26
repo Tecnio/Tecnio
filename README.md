@@ -2,8 +2,8 @@
 
 <h1 align="center">Tecnio</h1>
 
-<p align="center">Backend Developer, Advanced Skid</p>
-<p align="center">Can fluently write in Java, C#, Kotlin and Rust (mostly)</p>
+<p align="center">Software Developer, I do whatever I want</p>
+<p align="center">Can work with Java, Kotlin, Rust and C#</p>
 
 <a href="https://github.com/Tecnio">
   <p align="center">
