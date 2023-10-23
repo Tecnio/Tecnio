@@ -3,7 +3,7 @@
 <h1 align="center">Tecnio</h1>
 
 <p align="center">Software Engineer</p>
-<p align="center">[Contact Me](https://tecnio.me/contact)</p>
+<p align="center">https://tecnio.me/contact</p>
 
 <a href="https://github.com/Tecnio">
   <p align="center">
